@@ -61,7 +61,7 @@ in `AndroidManifest.xml`:
 
 ### Disclaimer
 
-While the above configurations can help improve compatibility, there's no guaranteed solution. Always test thoroughly and consider consulting with Google support for specific rejection rejection and .
+While the above configurations can help improve compatibility, I can not guarantee that it will work for every case. Always test thoroughly and consider contacting Google Play support for specific rejection reason and the exact policy that was violated.
 
 ### Contribute to this document
 
